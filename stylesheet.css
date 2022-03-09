@@ -1,0 +1,60 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Georgia, Verdana, sans-serif;
+	color: #22223B;
+	text-align: center;
+	list-style-position: inside;}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #F2E9E4; 
+	list-style-position: inside;}
+	
+	nav{
+	width:800px;
+	margin-top: 10px;
+	margin-right:auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	background-color:#9A8C98;}
+
+    
+nav li{
+	display: inline;
+	font-size: 18px;
+	list-style-type: none;
+	padding-right: 50px;
+	padding-left: 50px;}
+
+    img {
+
+width: 375px;
+border: 15px solid darkgrey;
+padding: 5px;
+margin: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+h2 {background-color: #9A8C98;
+font-family: Times New Roman, serif;}
+#content {
+	overflow: auto;
+	height: 100%;}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
+section {
+	overflow: auto;
+	height: 100%;
+	list-style-position: inside;
+}
+main {
+	background-color: #9A8C98;
+	padding: 10px;
+	margin: 10px;
+	list-style-position: inside;
+} 
